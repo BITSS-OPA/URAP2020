@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570462559782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3568016192",
+    "id" : "C634003E",
+    "lastKnownWriteTime" : 1570462589,
+    "last_content_update" : 1570462589940,
+    "path" : "~/Desktop/sandbox/CEGA2019/02-dynamicdocs/slides_w_beamer.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "71,10",
+        "scrollLine" : "55"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

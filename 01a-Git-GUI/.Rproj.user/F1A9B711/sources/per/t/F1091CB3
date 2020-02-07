@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551403294979.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2684251058",
+    "id" : "F1091CB3",
+    "lastKnownWriteTime" : 1570453354,
+    "last_content_update" : 1570453354941,
+    "path" : "~/Desktop/sandbox/CEGA2019/01a-Git-GUI/rep_workflow_slides.Rmd",
+    "project_path" : "rep_workflow_slides.Rmd",
+    "properties" : {
+        "chunk_output_type" : "console",
+        "cursorPosition" : "21,6",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "working_dir" : "project"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,141 @@
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUI[?1034hFernandos-MacBook-Pro:1a-Git-GUI fhoces$ [KFernandos-MacBook-Pro:1a-Git-GUI fhoces$ pwd
+/Users/fhoces/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUI
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout f15435f9a1bdec103ab0670593d20335ca99a023
+fatal: reference is not a tree: f15435f9a1bdec103ab0670593d20335ca99a023
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ f15435f9a1bdec103ab0670593d20335ca99a023git checkout f15435f9a1bdec103ab0670593d20335ca99a023[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kgit merge upstream/masterpwd[Kgit checkout f15435f9a1bdec103ab0670593d20335ca99a023[C f15435f9a1bdec103ab0670593d20335ca99a023m f15435f9a1bdec103ab0670593d20335ca99a023a f15435f9a1bdec103ab0670593d20335ca99a023s f15435f9a1bdec103ab0670593d20335ca99a023t f15435f9a1bdec103ab0670593d20335ca99a023e f15435f9a1bdec103ab0670593d20335ca99a023 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr f15435f9a1bdec103ab0670593d20335ca99a0233[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+error: pathspec 'f15435f9a1bdec103ab0670593d20335ca99a023' did not match any file(s) known to git.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ f15435f9a1bdec103ab0670593d20335ca99a023[B[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit checkout master f15435f9a1bdec103ab0670593d20335ca99a0233[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[35Pf15435f9a1bdec103ab06705
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit checkout master f15435f9a1bdec103ab0670593d20335ca99a0233[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pf15435f9a1bdec103ab0670593d20335ca99a023
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kf15435f
+error: pathspec 'f15435f' did not match any file(s) known to git.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout f15435f[B[Kgit status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   rep_workflow_slides.Rmd[m
+	[31mmodified:   rep_workflow_slides.pdf[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git statuscheckout f15435f[Bmaster f15435f9a1bdec103ab0670593d20335ca99a0233[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf15435f[B[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pstatus[Kgit statuscheckout f15435f[Bmaster f15435f9a1bdec103ab0670593d20335ca99a0233[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pf15435f9a1bdec103ab0670593d20335ca99a023
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kgit checkout f15435f9a1bdec103ab0670593d20335ca99a023master f15435f9a1bdec103ab0670593d20335ca99a0233[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf15435f[B[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pstatus[Kgit statuscheckout f15435f[B[C[K[K
+error: pathspec 'f15435f' did not match any file(s) known to git.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout f15435f[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Klos[Kg
+[?1h=[33mcommit f131c0d2595e486a9499be0d2871ad4803ffd0dd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m[m
+Author: Fernando Hoces de la Guardia <fhoces@users.noreply.github.com>[m
+Date:   Tue Sep 4 11:32:37 2018 -0700[m
+[m
+    added previous git tutorial[m
+[m
+[33mcommit f4de6f79b9246ceab9c877f241721c6f39272e22[m[m
+Author: Fernando Hoces de la Guardia <fhoces@users.noreply.github.com>[m
+Date:   Tue Sep 4 10:52:32 2018 -0700[m
+[m
+    rename folders[m
+[m
+[33mcommit 8b8bb02ccb23003afb6b0c40c4d02c22fd469b73[m[m
+:[K[KAuthor: Fernando Hoces de la Guardia <fhoces@users.noreply.github.com>[m
+:[K[KDate:   Tue Sep 4 10:05:37 2018 -0700[m
+:[K[K[m
+:[K[K    first commit[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K[?1l>]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git logcheckout f15435f[10Pstatuscheckout f15435f test.[K1.R
+error: pathspec 'f15435f' did not match any file(s) known to git.
+error: pathspec 'test1.R' did not match any file(s) known to git.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout f15435f test1.R[C\R\R[1PR[1PR[1PR[1PR[1PR[1PR[1PR[1PR[1PR[Ct f15435fRe f15435fRs f15435fRt f15435fR[1P f15435fR[1P f15435fR[1P f15435fR[1P f15435fR[C f15435fRt f15435fRe f15435fRs f15435fRt f15435fR1 f15435fR. f15435fRR f15435fR
+error: pathspec 'test1.R' did not match any file(s) known to git.
+error: pathspec 'f15435fR' did not match any file(s) known to git.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout test1.R f15435fR[1Pf15435f test1.Rlog[Kcheckout f15435f
+error: pathspec 'f15435f' did not match any file(s) known to git.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout f15435ftest1.R f15435fR[1Pf15435f test1.R[C test1.R- test1.R- test1.R[C test1.R
+fatal: invalid reference: f15435f
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout f15435f --  test1.R[Ktest1.R f15435fR[C f15435fR- f15435fR- f15435fR
+fatal: invalid reference: test1.R
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout test1.R -- f15435fRf15435f --  test1.R[Ktest1.R f15435fR[1@-[1@-[1@ 
+error: pathspec 'test1.R' did not match any file(s) known to git.
+error: pathspec 'f15435fR' did not match any file(s) known to git.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout -- test1.R f15435fRtest1.R --[C[C[C[C[C[C[C[C[C-- test1.R[C[C[C[C[C[C[C[C[C[Kf15435f9a1bdec103ab0670593d20335ca99a023[8Pgit checkout -- test1.R f15435fRf15435f9a1bdec103ab0670593d20335ca99a023
+bash: f15435f9a1bdec103ab0670593d20335ca99a023: command not found
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ 
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git reset --hard f15435f9a1bdec103ab0670593d20335ca99a023
+fatal: Could not parse object 'f15435f9a1bdec103ab0670593d20335ca99a023'.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git reset --hard f15435f9a1bdec103ab0670593d20335ca99a023[C f15435f9a1bdec103ab0670593d20335ca99a023[C# f15435f9a1bdec103ab0670593d20335ca99a023 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pf15435f9a1bdec103ab0670593d20335ca99a023
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+HEAD is now at f131c0d added previous git tutorial
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+nothing to commit, working tree clean
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git push --force
+git: 'credential-wincred' is not a git command. See 'git --help'.
+Everything up-to-date
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git push --force[6Pstatusreset --hard #f15435f9a1bdec103ab0670593d20335ca99a023
+HEAD is now at f131c0d added previous git tutorial
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ ~git reset --hard #f15435f9a1bdec103ab0670593d20335ca99a023[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush --force[K[6Pstatusreset --hard #f15435f9a1bdec103ab0670593d20335ca99a023[1Pf15435f9a1bdec103ab0670593d20335ca99a023[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pf15435f9a1bdec103ab0670593d20335ca99a023[8Pgit checkout -- test1.R f15435fRtest1.R --[C[C[C[C[C[C[C[C[Cf15435f --  test1.R[Ktest1.R f15435fR[1Pf15435f test1.Rlog[Kcheckout f15435f test1.R[K[K[K[K[K[K[K[K#f15435f
+Your branch is up-to-date with 'origin/master'.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout #f15435f
+Your branch is up-to-date with 'origin/master'.
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git checkout #f15435f[C; #f15435f2 #f15435fD #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435fr #f15435fe #f15435fv #f15435fe #f15435fr #f15435ft #f15435f[C #f15435f
+usage: git revert [<options>] <commit-ish>...
+   or: git revert <subcommand>
+
+    --quit                end revert or cherry-pick sequence
+    --continue            resume revert or cherry-pick sequence
+    --abort               cancel revert or cherry-pick sequence
+    -n, --no-commit       don't automatically commit
+    -e, --edit            edit the commit message
+    -s, --signoff         add Signed-off-by:
+    -m, --mainline <parent-number>
+                          select mainline parent
+    --rerere-autoupdate   update the index with reused conflict resolution if possible
+    --strategy <strategy>
+                          merge strategy
+    -X, --strategy-option <option>
+                          option for merge strategy
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git revert  #f15435f --hard
+usage: git revert [<options>] <commit-ish>...
+   or: git revert <subcommand>
+
+    --quit                end revert or cherry-pick sequence
+    --continue            resume revert or cherry-pick sequence
+    --abort               cancel revert or cherry-pick sequence
+    -n, --no-commit       don't automatically commit
+    -e, --edit            edit the commit message
+    -s, --signoff         add Signed-off-by:
+    -m, --mainline <parent-number>
+                          select mainline parent
+    --rerere-autoupdate   update the index with reused conflict resolution if possible
+    --strategy <strategy>
+                          merge strategy
+    -X, --strategy-option <option>
+                          option for merge strategy
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIFernandos-MacBook-Pro:1a-Git-GUI fhoces$ git revert  #f15435f --hard[Kgit revert  #f15435f --hard[K[1@checkout[C[C[C[C[C[C[C[C[Creset --hard #f15435f9a1bdec103ab0670593d20335ca99a023[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccheckout #f15435f[K[1Prevert [C[C[C[C[C[C[C[C[C --hard[Kgit revert  #f15435f --hard[K[1@checkout[C[C[C[C[C[C[C[C[Creset --hard #f15435f9a1bdec103ab0670593d20335ca99a023[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush --force[Kreset --hard #f15435f9a1bdec103ab0670593d20335ca99a023[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccheckout #f15435f[K[1Prevert [C[C[C[C[C[C[C[C[C --hard[Kgit revert  #f15435f --hard[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[Kf[1P#f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435f[1P #f15435fe #f15435fs #f15435fe #f15435ft #f15435f[C #f15435f- #f15435f- #f15435fh #f15435fa #f15435fr #f15435fd #f15435f[C #f15435f
+HEAD is now at f131c0d added previous git tutorial
+[Kwifi-131-179-2-202:1a-Git-GUI fhoces$ ls
+1-GitDemo.html			rep_workflow_slides.nav
+1-GitDemo.md			rep_workflow_slides.out
+1a-Git-GUI.Rproj		rep_workflow_slides.pdf
+rep_workflow_slides.Rmd		rep_workflow_slides.snm
+rep_workflow_slides.aux		rep_workflow_slides.toc
+rep_workflow_slides.html	rep_workflow_slides.vrb
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018/1a-Git-GUIwifi-131-179-2-202:1a-Git-GUI fhoces$ cd ..
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018wifi-131-179-2-202:RT2_LOSANGELES_2018 fhoces$ ls
+1a-Git-GUI		LICENSE			handout.pdf
+2-dynamicdocs		README.md		x-moredynamicdocs
+Images			handout.Rmd
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018[?1034hFernandos-MacBook-Pro:RT2_LOSANGELES_2018 fhoces$ which git
+/usr/local/bin/git
+]0;~/Desktop/sandbox/RT2_LOSANGELES_2018Fernandos-MacBook-Pro:RT2_LOSANGELES_2018 fhoces$ 

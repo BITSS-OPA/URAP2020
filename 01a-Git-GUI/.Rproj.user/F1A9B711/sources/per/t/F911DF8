@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551405599048.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2678274612",
+    "id" : "F911DF8",
+    "lastKnownWriteTime" : 1551405616,
+    "last_content_update" : 1551405616169,
+    "path" : "~/Desktop/sandbox/wb_reusable_analytics/handout.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "11,15",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
