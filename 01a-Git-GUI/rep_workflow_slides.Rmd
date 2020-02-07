@@ -1,7 +1,7 @@
 ---
-title: 'Git for Non-Programmers'
-author: "| Fernando Hoces de la Guardia\n| BITSS   \n| -\n| Slides at \n|  <https://github.com/BITSS/CEGA2019>\n"
-date: "CEGA, \n October 2019"
+title: 'Git and Github Without the Commnand Line'
+author: "| Fernando Hoces de la Guardia\n| BITSS   \n| -\n| Slides at \n|  https://github.com/BITSS-OPA/URAP2020\n"
+date: "BITSS, \n February 2020"
 output:
   beamer_presentation:
     slide_level: 2
