@@ -10,5 +10,5 @@ Before this meeting please sure sure you have installed the following software:
  -  R (update/reinstall to latest version)
  -  RStudio  (update/reinstall to latest version)
  -  Github desktop app
- -  Atom (text editor) test for conflict in master
+ -  Atom (text editor)
 
